@@ -33,15 +33,14 @@
                                 <rect key="frame" x="97" y="558" width="199" height="175"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Button">
+                                <buttonConfiguration key="configuration" style="plain" title="TAP">
                                     <backgroundConfiguration key="background" strokeWidth="0.0">
                                         <color key="backgroundColor" red="1" green="0.0" blue="0.01666666667" alpha="1" colorSpace="calibratedRGB"/>
                                     </backgroundConfiguration>
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="ButtonConnter:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IIn-5q-50p"/>
-                                    <action selector="TouchDownButtonCounter:" destination="BYZ-38-t0r" eventType="touchDown" id="XbI-AI-kOG"/>
+                                    <action selector="ButtonConnter:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xEG-Zw-lQ5"/>
                                 </connections>
                             </button>
                         </subviews>
